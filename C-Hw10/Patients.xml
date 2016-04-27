@@ -1,0 +1,25 @@
+<Records>
+	  <Patient>
+			 <ID>5</ID>
+			 <Name>Ali Veli</Name>
+			 <History>On 10 12 2012 applied with an headache, diagnosed with
+flue, purposed to use Majezik and rest. On 12 8 2014 applied with headache.
+Nothing done.</History>
+	  </Patient>
+	  <Patient>
+			 <ID>2</ID>
+			 <Name>Fatma Zeki</Name>
+			 <History></History>
+	  </Patient>
+	  <Patient>
+			 <ID>2</ID>
+			 <Name>Erdogan Sevilgen</Name>
+			 <History>Good good good.</History>
+	  </Patient>
+	  <Patient>
+			 <ID>20</ID>
+			 <Name>Evren Ciftci</Name>
+			 <History>Not good not good not good..</History>
+	  </Patient>
+	  <Patient>
+</Records>
